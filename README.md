@@ -1,0 +1,1 @@
+WorDungeon is a game made using Jaclang. You are dropped into a dungeon and have to traverse several rooms to find the exit. in order to leave a room, you need to correctly guess a word within 6 attempts. the dungeon is a graph and each room is a node. AI is used to give the user hints according to their input and the correct word.
